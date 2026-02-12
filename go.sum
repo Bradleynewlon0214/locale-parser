@@ -2,3 +2,7 @@ github.com/alexaandru/go-sitter-forest/vue v1.9.0 h1:BPoawE95QEfIqnPlGzYdShq65MH
 github.com/alexaandru/go-sitter-forest/vue v1.9.0/go.mod h1:xSLP7im6TAV8+4jpgnIczNmmC5RzvI0EG9l5Scl4qsQ=
 github.com/alexaandru/go-tree-sitter-bare v1.11.0 h1:hRg0R09Kukx2il7ZEec570L/zG4SlM9VwEYR7kkh2nY=
 github.com/alexaandru/go-tree-sitter-bare v1.11.0/go.mod h1:D0p+tpA7QXGADKpNHG9qTc1EXTg/tS/DO4cQdd0cSUg=
+github.com/gosimple/slug v1.15.0 h1:wRZHsRrRcs6b0XnxMUBM6WK1U1Vg5B0R7VkIf1Xzobo=
+github.com/gosimple/slug v1.15.0/go.mod h1:UiRaFH+GEilHstLUmcBgWcI42viBN7mAb818JrYOeFQ=
+github.com/gosimple/unidecode v1.0.1 h1:hZzFTMMqSswvf0LBJZCZgThIZrpDHFXux9KeGmn6T/o=
+github.com/gosimple/unidecode v1.0.1/go.mod h1:CP0Cr1Y1kogOtx0bJblKzsVWrqYaqfNOnHzpgWw4Awc=
